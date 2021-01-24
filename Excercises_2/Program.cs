@@ -1,15 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Excercises_2
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+        }
+
+        public static string Reverse(string text)
+        {
+            return string.Empty;
+        }
+
+        public static string Sorting(string text)
+        {
+            return string.Empty;
+        }
+
+        public static string Pattern(int number)
+        {
+            return string.Empty;
         }
     }
 }
